@@ -15,6 +15,8 @@ _Photo of some other kind of brownies by [ChefRS](https://www.chefrs.com.br/brow
 - 1/2 cup chopped nuts
 - 1/2 cup chopped dark chocolate
 
+## Instructions
+
 1. Preheat oven to 160ºC
 2. Beat butter and sugar until blended, mix in egg and vanilla (beat well).
 3. Sift together flour, baking powder, salt. Fold into the mix, add nuts and chocolate.
