@@ -1,6 +1,7 @@
 # Butterscotch Brownies
 
 ![](brownies_com_acucar.jpg)
+_Photo by [ChefRS](https://www.chefrs.com.br/brownie/) CC-BY-NC_
 
 ## Ingredients
 
