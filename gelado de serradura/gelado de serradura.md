@@ -1,6 +1,6 @@
 # Gelado de Serradura
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Serradura_in_Goa.jpg/960px-Serradura_in_Goa.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Serradura_in_Goa.jpg/960px-Serradura_in_Goa.jpg)  
 _photo [Ravi Dwivedi](https://commons.wikimedia.org/wiki/File:Serradura_in_Goa.jpg) CC-BY-SA-4.0_
 
 ## Ingredientes
