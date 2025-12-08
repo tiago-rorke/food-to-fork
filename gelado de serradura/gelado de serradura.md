@@ -5,10 +5,10 @@ _photo [Ravi Dwivedi](https://commons.wikimedia.org/wiki/File:Serradura_in_Goa.j
 
 ## Ingredientes
 
-1 lata de leite condensado
-2 pacotes de natas (pequenos)
-2 folhas de gelatina
-1 pacote de bolachas maria
+- 1 lata de leite condensado
+- 2 pacotes de natas (pequenos)
+- 2 folhas de gelatina
+- 1 pacote de bolachas maria
 
 ## Instruções
 
