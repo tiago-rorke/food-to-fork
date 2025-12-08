@@ -1,8 +1,9 @@
 # Food To Fork - Sharing Recipes to Learn Git
 
-Repository of recipes shared by participants of the "How to Undo" intro to Git workshop.
+Repository of recipes shared by participants of the "Open Collaboration with Git" workshop.
 
 ## Contents
 
 - [Butterscotch  Brownies](butterscotch-brownies/butterscotch-brownies.md)
 - [Torrada](torrada/torrada.md)
+- [Gelado de Serradura](gelado%20de%20serradura/gelado%20de%20serradura.md)
