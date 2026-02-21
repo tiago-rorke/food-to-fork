@@ -11,4 +11,9 @@ Follow these instructions to add your own recipe:
 - [Butterscotch  Brownies](butterscotch-brownies/butterscotch-brownies.md)
 - [Torrada](torrada/torrada.md)
 - [Gelado de Serradura](gelado%20de%20serradura/gelado%20de%20serradura.md)
+- [Pumpkin Soup](pumpkin%20soup/pumpkin-soup.md)
+- [Arroz con leche deconstruido](arroz_deconstruido/Arroz_deconstruido.md)
+- [Bolo Húmido de Cenoura](BoloHumidoCenoura/BoloHumidoCenoura.md)
+- [Saag Feta](saag-feta/recipe.md)
 - [Tofu e Alho-Francês à Brás](tofu%20e%20alho-francês%20à%20brás/tofu%20e%20alho-francês%20à%20brás.md)
+
