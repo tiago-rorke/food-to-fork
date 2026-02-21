@@ -10,7 +10,7 @@ Select `Plain text`.
 To see your formatting in real-time, your can use an online markdown editor such as https://onlinemarkdown.com/, and then copy and paste this into your text editor.
 5. You can add an image to the recipe either by embedding an image found online, or by adding your own image to the repository.  
 When using images that are not your own, make sure these have a license that allows them to be used, and include any necessary credits.
-6. Before committing your new recipe to the repository, ensure that the markdown document has the correct file extension (.md). You may new to configure your file browser to make extensions visible:
+6. Before committing your new recipe to the repository, ensure that the markdown document has the correct file extension (`.md`). You may new to configure your file browser to make extensions visible:
 	- Windows File Explorer: View menu > Show > `Enable File name extensions`
 	- MacOS Finder: Finder Settings > Advanced > Enable: `Show all filename extensions`
 7. Once you are finished and have committed your new recipe, you can add this to the upstream repository by creating a new fork on GitHub, and making a Pull Request:
