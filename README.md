@@ -2,7 +2,9 @@
 
 Repository of recipes shared by participants of the "Open Collaboration with Git" workshop.
 
-Follow these [instructions](instructions.md) to add your own recipe.
+Follow these instructions to add your own recipe:
+- [Adding a recipe using GitHub Desktop](instructions_github_desktop.md)
+- [Adding a recipe on GitHub.com](instructions_github_web.md)
 
 ## Contents
 

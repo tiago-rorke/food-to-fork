@@ -1,4 +1,4 @@
-# Adding Recipes to the Food-to-Fork Repository
+# Adding Recipes to the Food-to-Fork Repository via GitHub.com
 
 1. Log into GitHub
 2. On https://github.com/tiago-rorke/food-to-fork/, create your own copy the repository by clicking on `fork` (to the right of the repository title). Keep the default options and select `Create fork`
